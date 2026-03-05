@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "me.pensiata/analytics",
+  "name": "io.github.nvasilevv/pensiata",
   "title": "Pensiata - Bulgarian Pension Fund Analytics",
   "description": "Bulgarian pension fund analytics — NAV data, performance metrics, rankings, and benchmarks for UPF, PPF, DPF.",
   "version": "1.0.0",

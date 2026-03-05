@@ -2,7 +2,7 @@
 
 A [Model Context Protocol](https://modelcontextprotocol.io/) server providing analytics for Bulgarian pension funds — covering all three pillar II schemes (UPF, PPF, DPF).
 
-**Hosted at:** `https://pensiata.me/mcp` (streamable HTTP transport)
+**Hosted at:** `https://mcp.pensiata.me/mcp` (streamable HTTP transport)
 
 ## Connect
 

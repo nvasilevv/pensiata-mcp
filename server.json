@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.nvasilevv/pensiata",
   "title": "Pensiata - Bulgarian Pension Fund Analytics",
-  "description": "Bulgarian pension fund analytics — NAV data, performance metrics, rankings, and benchmarks for UPF, PPF, DPF.",
+  "description": "Bulgarian pension fund analytics — NAV data, metrics, rankings, and benchmarks.",
   "version": "1.0.0",
   "websiteUrl": "https://pensiata.me",
   "repository": {
@@ -11,10 +11,8 @@
   },
   "remotes": [
     {
-      "transport": {
-        "type": "streamable-http",
-        "url": "https://mcp.pensiata.me/mcp"
-      }
+      "type": "streamable-http",
+      "url": "https://mcp.pensiata.me/mcp"
     }
   ]
 }

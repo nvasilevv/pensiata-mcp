@@ -13,7 +13,7 @@ Add to your MCP client configuration:
   "mcpServers": {
     "pensiata": {
       "type": "streamable-http",
-      "url": "https://pensiata.me/mcp"
+      "url": "https://mcp.pensiata.me/mcp"
     }
   }
 }
